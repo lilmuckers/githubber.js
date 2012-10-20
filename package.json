@@ -1,5 +1,5 @@
 {
-  "name": "github",
+  "name": "githubber",
   "version": "0.0.1",
   "description": "GitHub API library, with added express helper",
   "main": "index.js",
